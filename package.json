@@ -1,0 +1,26 @@
+{
+  "name": "xv-panorama-q",
+  "version": "1.0.0",
+  "description": "Frontend middleware for connecting Crossvale Inc's Panorama Suite to its back end bus services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crossvale-inc/panorama-q.git"
+  },
+  "keywords": [
+    "crossvale",
+    "panorama"
+  ],
+  "author": "Jairo D Espinosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crossvale-inc/panorama-q/issues"
+  },
+  "homepage": "https://github.com/crossvale-inc/panorama-q#readme",
+  "dependencies": {
+    "rxjs": "^5.5.8"
+  }
+}
