@@ -2,9 +2,9 @@
   "name": "xv-panorama-q",
   "version": "1.0.0",
   "description": "Frontend middleware for connecting Crossvale Inc's Panorama Suite to its back end bus services.",
-  "main": "index.js",
+  "main": "panorama-q.js",
   "scripts": {
-    "test": "test"
+    "start": "node panorama-q.js"
   },
   "repository": {
     "type": "git",
